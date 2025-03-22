@@ -53,7 +53,7 @@ The script uses AppleScript and shell commands to:
 
 ## Credits
 - Author: **LLPPR** (https://github.com/LLPPR)
-- Co-Author: **DeepSeek-V3** (an AI assistant by DeepSeek)
+- Co-Author: **DeepSeek "Rock On" V3**
 
 ---
 
